@@ -1,0 +1,20 @@
+Changelog version 1.4.4 - Apr 12 2021
+
+Fix
+
+- Fix Editor 
+- Show Price in the Preivew
+- Long text in the menu 
+- Date format in search page
+- Can not set tax if value is '0'
+- Can not checkout without login 
+- Search pagination
+
+Improve
+
+- Integrate CKEditor
+- Can add Image in the Editor
+
+Update 
+
+- Can make QRCode
